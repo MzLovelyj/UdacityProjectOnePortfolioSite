@@ -1,4 +1,4 @@
-# Udacity_projectOnePortfolioSite
+# UdacityProjectOnePortfolioSite
 
 ### Required Elements
 ### The page at minimum includes all of the following:

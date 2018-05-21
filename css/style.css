@@ -1,0 +1,79 @@
+  body {
+      font-weight: 300;
+      letter-spacing: 0em;
+      font-family: "Montserrat", sans-serif;
+      font-size: .9em;
+      line-height: 1.85714286em;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+  }
+  
+  h4 {
+      text-transform: uppercase;
+      font-size: .8rem;
+      letter-spacing: 2px;
+  }
+  
+  #portfolioSection {
+      padding-top: 50px;
+      padding-bottom: 20px;
+  }
+  
+  .rProject {
+      text-align: center;
+      text-transform: uppercase;
+      margin-bottom: 60px;
+  }
+  
+  .box {
+      margin-bottom: 30px
+  }
+  
+  #services {
+      padding-top: 50px;
+      padding-bottom: 20px;
+      background: #f8f8f8;
+      display: block;
+  }
+  
+  .offer {
+      text-transform: uppercase;
+      margin-bottom: 20px;
+  }
+  
+  .workTogetherSection {
+      padding-top: 50px;
+      padding-bottom: 20px;
+      background-color: #17a2b8;
+  }
+  
+  .work {
+      margin-left: auto;
+      margin-bottom: 20px;
+  }
+  
+  .hireMe {
+      margin-right: auto;
+      margin-bottom: 20px;
+      text-align: right;
+  }
+  
+  #contact {
+      padding-top: 30px;
+      padding-bottom: 30px;
+  }
+  
+  .innerContact {
+      margin-top: 15px;
+  }
+  
+  .footerBottom {
+      font-size: 30px;
+      display: inline-block;
+  }
+  
+  footer {
+      background-color: #f8f8f8;
+      padding-top: 35px;
+      padding-bottom: 35px;
+  }
